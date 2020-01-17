@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Seed_Radish" size="0.230000 0.092106" />
+    <ImageTarget name="Seed_Sweet_corn" size="0.270000 0.270000" />
+    <ImageTarget name="Seed_cucumber" size="0.130000 0.097500" />
+    <ImageTarget name="Seed_mushroom" size="0.130000 0.130000" />
+    <ImageTarget name="Seed_Onion" size="0.110000 0.082372" />
+    <ImageTarget name="Seed_Tomato" size="0.790000 0.704741" />
+    <ImageTarget name="Seed_Garlic" size="0.160000 0.189000" />
+    <ImageTarget name="Seed_Watermelon" size="0.160000 0.240000" />
+    <ImageTarget name="Seed_Carrot" size="0.130000 0.097500" />
+    <ImageTarget name="Seed_Okra" size="0.280000 0.280000" />
+  </Tracking>
+</QCARConfig>

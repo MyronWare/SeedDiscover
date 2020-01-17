@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: a3689e7ca24cd5e4686c61c730ac5efd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group_Model_group_Leaf_polySurface163
+    100002: Group_Model_group_Leaf_polySurface166
+    100004: Group_Model_group_Leaf_polySurface186
+    100006: Group_Model_group_Rock_polySurface177
+    100008: Group_Model_group_Rock_polySurface178
+    100010: Group_Model_group_Rock_polySurface179
+    100012: Group_Model_group_Rock_polySurface180
+    100014: Group_Model_group_Rock_polySurface181
+    100016: Group_Model_group_Rock_polySurface182
+    100018: Group_Model_group_Rock_polySurface183
+    100020: Group_Model_group_Rock_polySurface184
+    100022: Group_Model_group_Rock_polySurface185
+    100024: Group_Model_polySurface162_group_Bough
+    100026: Group_Model_polySurface167_group_Leaf
+    100028: Group_Model_polySurface176_group_Rock
+    100030: Group_Mushroom_Group_Model_polySurface160
+    100032: Group_Mushroom_Group_Model_polySurface161
+    100034: //RootNode
+    100036: polySurface159_Group_Mushroom_Group_Model
+    400000: Group_Model_group_Leaf_polySurface163
+    400002: Group_Model_group_Leaf_polySurface166
+    400004: Group_Model_group_Leaf_polySurface186
+    400006: Group_Model_group_Rock_polySurface177
+    400008: Group_Model_group_Rock_polySurface178
+    400010: Group_Model_group_Rock_polySurface179
+    400012: Group_Model_group_Rock_polySurface180
+    400014: Group_Model_group_Rock_polySurface181
+    400016: Group_Model_group_Rock_polySurface182
+    400018: Group_Model_group_Rock_polySurface183
+    400020: Group_Model_group_Rock_polySurface184
+    400022: Group_Model_group_Rock_polySurface185
+    400024: Group_Model_polySurface162_group_Bough
+    400026: Group_Model_polySurface167_group_Leaf
+    400028: Group_Model_polySurface176_group_Rock
+    400030: Group_Mushroom_Group_Model_polySurface160
+    400032: Group_Mushroom_Group_Model_polySurface161
+    400034: //RootNode
+    400036: polySurface159_Group_Mushroom_Group_Model
+    2100000: Group_Model_group_Leaf_polySurface163Mat
+    2100002: Group_Model_group_Leaf_polySurface166Mat
+    2100004: Group_Model_group_Leaf_polySurface186Mat
+    2100006: Group_Model_group_Rock_polySurface177Mat
+    2100008: Group_Model_group_Rock_polySurface178Mat
+    2100010: Group_Model_group_Rock_polySurface179Mat
+    2100012: Group_Model_group_Rock_polySurface180Mat
+    2100014: Group_Model_group_Rock_polySurface181Mat
+    2100016: Group_Model_group_Rock_polySurface182Mat
+    2100018: Group_Model_group_Rock_polySurface183Mat
+    2100020: Group_Model_group_Rock_polySurface184Mat
+    2100022: Group_Model_group_Rock_polySurface185Mat
+    2100024: Group_Model_polySurface162_group_BoughMat
+    2100026: Group_Model_polySurface167_group_LeafMat
+    2100028: Group_Model_polySurface176_group_RockMat
+    2100030: Group_Mushroom_Group_Model_polySurface160Mat
+    2100032: Group_Mushroom_Group_Model_polySurface161Mat
+    2100034: polySurface159_Group_Mushroom_Group_ModelMat
+    2300000: Group_Model_group_Leaf_polySurface163
+    2300002: Group_Model_group_Leaf_polySurface166
+    2300004: Group_Model_group_Leaf_polySurface186
+    2300006: Group_Model_group_Rock_polySurface177
+    2300008: Group_Model_group_Rock_polySurface178
+    2300010: Group_Model_group_Rock_polySurface179
+    2300012: Group_Model_group_Rock_polySurface180
+    2300014: Group_Model_group_Rock_polySurface181
+    2300016: Group_Model_group_Rock_polySurface182
+    2300018: Group_Model_group_Rock_polySurface183
+    2300020: Group_Model_group_Rock_polySurface184
+    2300022: Group_Model_group_Rock_polySurface185
+    2300024: Group_Model_polySurface162_group_Bough
+    2300026: Group_Model_polySurface167_group_Leaf
+    2300028: Group_Model_polySurface176_group_Rock
+    2300030: Group_Mushroom_Group_Model_polySurface160
+    2300032: Group_Mushroom_Group_Model_polySurface161
+    2300034: polySurface159_Group_Mushroom_Group_Model
+    3300000: Group_Model_group_Leaf_polySurface163
+    3300002: Group_Model_group_Leaf_polySurface166
+    3300004: Group_Model_group_Leaf_polySurface186
+    3300006: Group_Model_group_Rock_polySurface177
+    3300008: Group_Model_group_Rock_polySurface178
+    3300010: Group_Model_group_Rock_polySurface179
+    3300012: Group_Model_group_Rock_polySurface180
+    3300014: Group_Model_group_Rock_polySurface181
+    3300016: Group_Model_group_Rock_polySurface182
+    3300018: Group_Model_group_Rock_polySurface183
+    3300020: Group_Model_group_Rock_polySurface184
+    3300022: Group_Model_group_Rock_polySurface185
+    3300024: Group_Model_polySurface162_group_Bough
+    3300026: Group_Model_polySurface167_group_Leaf
+    3300028: Group_Model_polySurface176_group_Rock
+    3300030: Group_Mushroom_Group_Model_polySurface160
+    3300032: Group_Mushroom_Group_Model_polySurface161
+    3300034: polySurface159_Group_Mushroom_Group_Model
+    4300000: Group_Model_group_Leaf_polySurface163
+    4300002: Group_Model_group_Leaf_polySurface166
+    4300004: Group_Model_group_Leaf_polySurface186
+    4300006: Group_Model_group_Rock_polySurface177
+    4300008: Group_Model_group_Rock_polySurface178
+    4300010: Group_Model_group_Rock_polySurface179
+    4300012: Group_Model_group_Rock_polySurface180
+    4300014: Group_Model_group_Rock_polySurface181
+    4300016: Group_Model_group_Rock_polySurface182
+    4300018: Group_Model_group_Rock_polySurface183
+    4300020: Group_Model_group_Rock_polySurface184
+    4300022: Group_Model_group_Rock_polySurface185
+    4300024: Group_Model_polySurface162_group_Bough
+    4300026: Group_Model_polySurface167_group_Leaf
+    4300028: Group_Model_polySurface176_group_Rock
+    4300030: Group_Mushroom_Group_Model_polySurface160
+    4300032: Group_Mushroom_Group_Model_polySurface161
+    4300034: polySurface159_Group_Mushroom_Group_Model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
